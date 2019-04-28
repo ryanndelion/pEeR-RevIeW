@@ -28,7 +28,7 @@ var fakerResponsesAppreciate = ["Good job!", "Well done is better than well said
                                   "Congratulations for a job well done! I was always confident of your abilities to shoulder your responsibilities. You should be very proud of yourself.",
                                   "Your achievements speaks itself about your capabilities. Slow and steady makes it to the top! Good job!",
                                   "Not a single effort of yours will go in vain. You will be rewarded for your pain. Your hard work will bring you a lot of gains. Well done."];
-var fakerResponsesHate = ["Stop eating in class", "Hey man, you're doing good don't worry", "NA", "None", "Please be more responsible", "Please be more open to suggestions", "Please involve yourself more in discussions"];
+var fakerResponsesHate = ["Stop eating in class", "Hey man, you're doing good don't worry", "NA", "None", "*Constructive criticism noises*", "No comment, good job!", "Try to involve yourself more in discussions, we value your ideas!"];
 var fakerResponsesGroup = ["Our group did great this term!", "We work together well", "Hopefully we can get closer as a team", "Most of us are very friendly and work well together", "i liek beans", "help me"];
 
 function randomResponse(a)
