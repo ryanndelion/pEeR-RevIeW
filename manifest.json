@@ -1,0 +1,28 @@
+{
+	"name": "pEeR RevIeW",
+	"version": "1.4",
+	"manifest_version": 2,
+	"description": "Tired of writing peer reviews? Use pEeR RevIeW!",
+
+	"browser_action": {
+	},
+	"content_scripts": [
+		{
+			"matches" : [
+				"http://*/*",
+				"https://*/*"
+			],
+			"js": ["jquery-3.1.1.min.js", "faker.js"]
+		}
+	],
+	"options_page": "options.html",
+	"background": { "page": "background.html", "persistent": true },
+	"permissions": [
+	 	"clipboardWrite",
+		"activeTab",
+		"notifications",
+		"contextMenus",
+		"storage"
+	],
+	"homepage_url": "https://github.com/"
+}
