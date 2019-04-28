@@ -5,8 +5,12 @@ Use this tool to automatically fill in useless Capstone peer reviews and farm th
 
 ## Installation
 To install, simply clone this repo to your machine. Then, follow the steps shown in the gif below to use pEeR RevIeW!
+
 ![demo](demo.gif)
+<br>
+<br>
 Note that pEeR RevIeW also autofills the text fields in the peer review form, but to protect anonymity I am not showing the actual outputs. Try it out yourself!
+
 If you want to add more possible responses, head to run.js and edit the fakerResponsesAppreciate, fakerResponsesHate and fakerResponsesGroup arrays to your heart's content.
 
 #### Disclaimer
