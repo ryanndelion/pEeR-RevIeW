@@ -1,7 +1,7 @@
 # pEeR RevIeW
-Inspired by Deep Autofill Chrome Extension by Stephan Ahlf - his code can be found at https://github.com/s-a/deep-autofill-chrome-extension.
+Inspired by Deep Autofill Chrome Extension by Stephan Ahlf - his code can be found at https://github.com/s-a/deep-autofill-chrome-extension. 
 
-Use this tool to automatically fill in useless Capstone peer reviews and farm that sweet, sweet 2% of your final grade!
+Use this tool to automatically fill in useless Capstone peer reviews and farm that sweet, sweet 2% of your final grade! (Only works with SUTD Capstone Peer Reviews, done on TEAMMATES - this is because the text responses in TEAMMATES are not written as input boxes, so Faker.js cannot pick them up.)
 
 ## Installation
 To install, simply clone this repo to your machine. Then, follow the steps shown below to use pEeR RevIeW!
